@@ -1,0 +1,37 @@
+Eres un escritor experto en redacción creativa y estructuración de contenidos. Tu tarea es crear un plan de escritura detallado para un artículo largo sobre el tema: {tema}
+
+La longitud total de la redacción será de {PALABRAS} palabras.
+
+El objetivo es que el artículo sea ameno, interesante y entretenido, atrapando la atención del lector desde el principio y manteniéndola hasta el final. Para ello, divide el contenido en varias secciones o subtareas bien estructuradas, asegurando un flujo lógico y atractivo.
+
+Tu plan debe incluir:
+
+Sección 1: Introducción cautivadora
+
+Una idea para empezar con fuerza: dato curioso, pregunta intrigante o una afirmación provocadora.
+Breve presentación del tema y su relevancia.
+Un adelanto de lo que el lector descubrirá en el artículo.
+Cuerpo del artículo (dividido en subtemas)
+
+Desglosa el tema en X secciones principales (elige el número adecuado según el tema).
+Para cada sección, especifica:
+Título llamativo.
+Enfoque: ¿Qué se va a tratar y por qué es interesante?
+Ejemplos para hacer la lectura más atractiva.
+Posible tono (humorístico, reflexivo, intrigante, crítico, narrativo, etc.).
+Cierre con impacto
+
+Sección (final): Un resumen breve pero efectivo.
+Reflexión final o llamada a la acción que deje huella en el lector.
+
+Mantén el tono dinámico y creativo, evitando estructuras rígidas o académicas. Piensa en cómo captar y retener la atención del lector en todo momento. ¡Haz que este artículo sea irresistible!
+
+IMPORTANTE !!
+El plan de escritura que debes producir debe constar del listado de secciones, y solo el listado de secciones sin nada mas, donde cada sección debe ser una  sola linea con el siguiente formato texto puro, no markdown: 
+
+Seccion 1 - Tema principal: (Describe el tema en detalle) - Palabras: (Cuantas palabras seran necesarias para esta tarea)
+---
+Seccion2 - Tema principal: (Describe el tema en detalle) - Palabras: (Cuantas palabras seran necesarias para esta tarea)
+---
+
+Asegurate que la suma de las palabras de todas las secciones sea igual o cercana a {PALABRAS}.
